@@ -5,7 +5,7 @@
 Ping程序文件,可独立运行
 
 ## Tracert.py
-Tracert程序文件，可独立运行
+Tracert程序文件,可独立运行
 
 ## frame.ui
 通过pyqt5画出的ui文件
