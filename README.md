@@ -18,3 +18,9 @@ ui框架
 
 ## test.py
 无用
+
+## 运行结果
+从main.py启动：
+![image](https://github.com/ljqcore/ICMP/assets/114852140/9e672824-5460-4b3b-a2a6-c3508244430f)
+
+![image](https://github.com/ljqcore/ICMP/assets/114852140/b365f1b1-791e-427b-a7a8-2d93f96cdbd6)
